@@ -27,3 +27,5 @@ http://al3med-live.tv
 https://kora.yallaa-live.com
 http://kora.yallaa-live.com
 http://test.local
+http://www.techst5r.com
+https://www.techst5r.com
