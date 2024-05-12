@@ -29,3 +29,4 @@ http://kora.yallaa-live.com
 http://test.local
 http://www.techst5r.com
 https://www.techst5r.com
+https://ultra.seenews.net
